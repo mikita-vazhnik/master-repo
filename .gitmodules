@@ -1,0 +1,3 @@
+[submodule "slave-repo"]
+	path = slave-repo
+	url = git@github.com:mikita-vazhnik/slave-repo.git
